@@ -1,0 +1,788 @@
+{
+  "artifactexistence:damagedestroy:n/a": [
+    "damagerdestroyer",
+    "artifact",
+    "instrument",
+    "place"
+  ],
+  "artifactexistence:damagedestroy:damage": [
+    "damager",
+    "artifact",
+    "instrument",
+    "place"
+  ],
+  "artifactexistence:damagedestroy:destroy": [
+    "destroyer",
+    "artifact",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:n/a": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:airstrikemissilestrike": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:biologicalchemicalpoisonattack": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:bombing": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:firearmattack": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:hanging": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:invade": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:selfdirectedbattle": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:setfire": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:stabbing": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:attack:stealrobhijack": [
+    "attacker",
+    "target",
+    "instrument",
+    "place",
+    "artifact"
+  ],
+  "conflict:attack:strangling": [
+    "attacker",
+    "target",
+    "instrument",
+    "place"
+  ],
+  "conflict:demonstrate:n/a": [
+    "demonstrator",
+    "place"
+  ],
+  "conflict:demonstrate:marchprotestpoliticalgathering": [
+    "demonstrator",
+    "place"
+  ],
+  "conflict:yield:n/a": [
+    "yielder",
+    "recipient",
+    "place"
+  ],
+  "conflict:yield:retreat": [
+    "retreater",
+    "origin",
+    "destination"
+  ],
+  "conflict:yield:surrender": [
+    "surrenderer",
+    "recipient",
+    "place"
+  ],
+  "contact:collaborate:n/a": [
+    "participant",
+    "place"
+  ],
+  "contact:collaborate:correspondence": [
+    "participant",
+    "place"
+  ],
+  "contact:collaborate:meet": [
+    "participant",
+    "place"
+  ],
+  "contact:commandorder:n/a": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:commandorder:broadcast": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:commandorder:correspondence": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:commandorder:meet": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:commitmentpromiseexpressintent:n/a": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:commitmentpromiseexpressintent:broadcast": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:commitmentpromiseexpressintent:correspondence": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:commitmentpromiseexpressintent:meet": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:discussion:n/a": [
+    "participant",
+    "place"
+  ],
+  "contact:discussion:correspondence": [
+    "participant",
+    "place"
+  ],
+  "contact:discussion:meet": [
+    "participant",
+    "place"
+  ],
+  "contact:funeralvigil:n/a": [
+    "participant",
+    "deceased",
+    "place"
+  ],
+  "contact:funeralvigil:meet": [
+    "participant",
+    "deceased",
+    "place"
+  ],
+  "contact:mediastatement:n/a": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:mediastatement:broadcast": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:negotiate:n/a": [
+    "participant",
+    "place"
+  ],
+  "contact:negotiate:correspondence": [
+    "participant",
+    "place"
+  ],
+  "contact:negotiate:meet": [
+    "participant",
+    "place"
+  ],
+  "contact:prevarication:n/a": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:prevarication:broadcast": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:prevarication:correspondence": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:prevarication:meet": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:publicstatementinperson:n/a": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:publicstatementinperson:broadcast": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:requestadvise:n/a": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:requestadvise:broadcast": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:requestadvise:correspondence": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:requestadvise:meet": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:threatencoerce:n/a": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:threatencoerce:broadcast": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:threatencoerce:correspondence": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "contact:threatencoerce:meet": [
+    "communicator",
+    "recipient",
+    "place"
+  ],
+  "disaster:accidentcrash:accidentcrash": [
+    "driverpassenger",
+    "vehicle",
+    "crashobject",
+    "place"
+  ],
+  "disaster:fireexplosion:fireexplosion": [
+    "fireexplosionobject",
+    "instrument",
+    "place"
+  ],
+  "government:agreements:n/a": [
+    "participant",
+    "place"
+  ],
+  "government:agreements:acceptagreementcontractceasefire": [
+    "participant",
+    "place"
+  ],
+  "government:agreements:rejectnullifyagreementcontractceasefire": [
+    "rejecternullifier",
+    "otherparticipant",
+    "place"
+  ],
+  "government:agreements:violateagreement": [
+    "violator",
+    "otherparticipant",
+    "place"
+  ],
+  "government:formation:n/a": [
+    "gpe",
+    "founder",
+    "place"
+  ],
+  "government:formation:mergegpe": [
+    "participant",
+    "place"
+  ],
+  "government:formation:startgpe": [
+    "gpe",
+    "founder",
+    "place"
+  ],
+  "government:legislate:legislate": [
+    "governmentbody",
+    "law",
+    "place"
+  ],
+  "government:spy:spy": [
+    "spy",
+    "observedentity",
+    "beneficiary",
+    "place"
+  ],
+  "government:vote:n/a": [
+    "voter",
+    "candidate",
+    "ballot",
+    "result",
+    "place"
+  ],
+  "government:vote:castvote": [
+    "voter",
+    "candidate",
+    "ballot",
+    "result",
+    "place"
+  ],
+  "government:vote:violationspreventvote": [
+    "preventer",
+    "voter",
+    "candidate",
+    "ballot",
+    "place"
+  ],
+  "inspection:sensoryobserve:n/a": [
+    "observer",
+    "observedentity",
+    "place"
+  ],
+  "inspection:sensoryobserve:inspectpeopleorganization": [
+    "inspector",
+    "inspectedentity",
+    "place"
+  ],
+  "inspection:sensoryobserve:monitorelection": [
+    "monitor",
+    "monitoredentity",
+    "place"
+  ],
+  "inspection:sensoryobserve:physicalinvestigateinspect": [
+    "inspector",
+    "inspectedentity",
+    "place"
+  ],
+  "justice:arrestjaildetain:arrestjaildetain": [
+    "jailer",
+    "detainee",
+    "crime",
+    "place"
+  ],
+  "justice:initiatejudicialprocess:n/a": [
+    "prosecutor",
+    "defendant",
+    "judgecourt",
+    "crime",
+    "place"
+  ],
+  "justice:initiatejudicialprocess:chargeindict": [
+    "prosecutor",
+    "defendant",
+    "judgecourt",
+    "crime",
+    "place"
+  ],
+  "justice:initiatejudicialprocess:trialhearing": [
+    "prosecutor",
+    "defendant",
+    "judgecourt",
+    "crime",
+    "place"
+  ],
+  "justice:investigate:n/a": [
+    "investigator",
+    "defendant",
+    "place"
+  ],
+  "justice:investigate:investigatecrime": [
+    "investigator",
+    "defendant",
+    "crime",
+    "place"
+  ],
+  "justice:judicialconsequences:n/a": [
+    "judgecourt",
+    "defendant",
+    "crime",
+    "place"
+  ],
+  "justice:judicialconsequences:convict": [
+    "judgecourt",
+    "defendant",
+    "crime",
+    "place"
+  ],
+  "justice:judicialconsequences:execute": [
+    "executioner",
+    "defendant",
+    "crime",
+    "place"
+  ],
+  "justice:judicialconsequences:extradite": [
+    "extraditer",
+    "defendant",
+    "crime",
+    "origin",
+    "destination"
+  ],
+  "life:die:n/a": [
+    "victim",
+    "place"
+  ],
+  "life:die:deathcausedbyviolentevents": [
+    "killer",
+    "victim",
+    "instrument",
+    "place"
+  ],
+  "life:die:nonviolentdeath": [
+    "victim",
+    "place"
+  ],
+  "life:injure:n/a": [
+    "victim",
+    "injurer",
+    "place"
+  ],
+  "life:injure:illnessdegradationhungerthirst": [
+    "victim",
+    "place"
+  ],
+  "life:injure:illnessdegradationphysical": [
+    "victim"
+  ],
+  "life:injure:injurycausedbyviolentevents": [
+    "injurer",
+    "victim",
+    "instrument",
+    "place"
+  ],
+  "manufacture:artifact:n/a": [
+    "manufacturer",
+    "artifact",
+    "instrument",
+    "place"
+  ],
+  "manufacture:artifact:build": [
+    "manufacturer",
+    "artifact",
+    "instrument",
+    "place"
+  ],
+  "manufacture:artifact:createintellectualproperty": [
+    "manufacturer",
+    "artifact",
+    "instrument",
+    "place"
+  ],
+  "manufacture:artifact:createmanufacture": [
+    "manufacturer",
+    "artifact",
+    "instrument",
+    "place"
+  ],
+  "movement:transportartifact:n/a": [
+    "transporter",
+    "artifact",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:bringcarryunload": [
+    "transporter",
+    "artifact",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:disperseseparate": [
+    "transporter",
+    "artifact",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:fall": [
+    "artifact",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:grantentry": [
+    "transporter",
+    "artifact",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:hide": [
+    "transporter",
+    "artifact",
+    "hidingplace",
+    "vehicle",
+    "origin"
+  ],
+  "movement:transportartifact:nonviolentthrowlaunch": [
+    "transporter",
+    "artifact",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:prevententry": [
+    "preventer",
+    "transporter",
+    "artifact",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:preventexit": [
+    "preventer",
+    "transporter",
+    "artifact",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:receiveimport": [
+    "transporter",
+    "artifact",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:sendsupplyexport": [
+    "transporter",
+    "artifact",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportartifact:smuggleextract": [
+    "transporter",
+    "artifact",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:n/a": [
+    "transporter",
+    "passenger",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:bringcarryunload": [
+    "transporter",
+    "passenger",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:disperseseparate": [
+    "transporter",
+    "passenger",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:evacuationrescue": [
+    "transporter",
+    "passenger",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:fall": [
+    "passenger",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:grantentryasylum": [
+    "granter",
+    "transporter",
+    "passenger",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:hide": [
+    "transporter",
+    "passenger",
+    "hidingplace",
+    "vehicle",
+    "origin"
+  ],
+  "movement:transportperson:prevententry": [
+    "preventer",
+    "transporter",
+    "passenger",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:preventexit": [
+    "preventer",
+    "transporter",
+    "passenger",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:selfmotion": [
+    "transporter",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "movement:transportperson:smuggleextract": [
+    "transporter",
+    "passenger",
+    "vehicle",
+    "origin",
+    "destination"
+  ],
+  "personnel:elect:n/a": [
+    "voter",
+    "candidate",
+    "place"
+  ],
+  "personnel:elect:winelection": [
+    "voter",
+    "candidate",
+    "place"
+  ],
+  "personnel:endposition:n/a": [
+    "employee",
+    "placeofemployment",
+    "place"
+  ],
+  "personnel:endposition:firinglayoff": [
+    "employee",
+    "placeofemployment",
+    "place"
+  ],
+  "personnel:endposition:quitretire": [
+    "employee",
+    "placeofemployment",
+    "place"
+  ],
+  "personnel:startposition:n/a": [
+    "employee",
+    "placeofemployment",
+    "place"
+  ],
+  "personnel:startposition:hiring": [
+    "employee",
+    "placeofemployment",
+    "place"
+  ],
+  "transaction:transaction:n/a": [
+    "participant",
+    "beneficiary",
+    "place"
+  ],
+  "transaction:transaction:embargosanction": [
+    "preventer",
+    "giver",
+    "recipient",
+    "artifactmoney",
+    "place"
+  ],
+  "transaction:transaction:giftgrantprovideaid": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "place"
+  ],
+  "transaction:transfermoney:n/a": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "money",
+    "place"
+  ],
+  "transaction:transfermoney:borrowlend": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "money",
+    "place"
+  ],
+  "transaction:transfermoney:embargosanction": [
+    "preventer",
+    "giver",
+    "recipient",
+    "money",
+    "place"
+  ],
+  "transaction:transfermoney:giftgrantprovideaid": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "money",
+    "place"
+  ],
+  "transaction:transfermoney:payforservice": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "money",
+    "place"
+  ],
+  "transaction:transfermoney:purchase": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "money",
+    "place"
+  ],
+  "transaction:transferownership:n/a": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "artifact",
+    "place"
+  ],
+  "transaction:transferownership:borrowlend": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "artifact",
+    "place"
+  ],
+  "transaction:transferownership:embargosanction": [
+    "preventer",
+    "giver",
+    "recipient",
+    "artifact",
+    "place"
+  ],
+  "transaction:transferownership:giftgrantprovideaid": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "artifact",
+    "place"
+  ],
+  "transaction:transferownership:purchase": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "artifact",
+    "place"
+  ],
+  "transaction:transaction:transfercontrol": [
+    "giver",
+    "recipient",
+    "beneficiary",
+    "territoryorfacility",
+    "place"
+  ]
+}

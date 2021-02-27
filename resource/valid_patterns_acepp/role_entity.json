@@ -1,0 +1,180 @@
+{
+    "vehicle": [
+        "VEH",
+        "vehicle"
+    ],
+    "prosecutor": [
+        "GPE",
+        "PER",
+        "ORG",
+        "prosecutor",
+        "judgecourt",
+        "place",
+        "jailer"
+    ],
+    "victim": [
+        "PER",
+        "VALUE",
+        "victim",
+        "TIMEX2",
+        "place"
+    ],
+    "price": [
+        "VALUE"
+    ],
+    "time": [
+        "TIMEX2"
+    ],
+    "instrument": [
+        "WEA",
+        "VEH",
+        "instrument"
+    ],
+    "place": [
+        "GPE",
+        "FAC",
+        "LOC",
+        "place",
+        "VALUE"
+    ],
+    "crime": [
+        "VALUE",
+        "crime"
+    ],
+    "adjudicator": [
+        "ORG",
+        "PER",
+        "GPE"
+    ],
+    "artifact": [
+        "PER",
+        "VEH",
+        "ORG",
+        "WEA",
+        "FAC",
+        "artifact",
+        "TIMEX2"
+    ],
+    "person": [
+        "PER",
+        "VALUE",
+        "TIMEX2",
+        "candidate"
+    ],
+    "beneficiary": [
+        "PER",
+        "beneficiary",
+        "GPE",
+        "ORG",
+        "place"
+    ],
+    "attacker": [
+        "GPE",
+        "PER",
+        "ORG",
+        "place",
+        "killer",
+        "attacker",
+        "victim",
+        "target",
+        "instrument"
+    ],
+    "position": [
+        "VALUE"
+    ],
+    "org": [
+        "ORG",
+        "PER"
+    ],
+    "recipient": [
+        "ORG",
+        "PER",
+        "recipient",
+        "GPE",
+        "artifact",
+        "beneficiary",
+        "money",
+        "place"
+    ],
+    "origin": [
+        "GPE",
+        "LOC",
+        "FAC",
+        "origin",
+        "destination"
+    ],
+    "giver": [
+        "PER",
+        "ORG",
+        "beneficiary",
+        "GPE",
+        "giver",
+        "place",
+        "destination",
+        "recipient",
+        "granter"
+    ],
+    "seller": [
+        "GPE",
+        "ORG",
+        "PER"
+    ],
+    "money": [
+        "VALUE",
+        "money"
+    ],
+    "agent": [
+        "PER",
+        "ORG",
+        "GPE",
+        "transporter",
+        "origin",
+        "destination"
+    ],
+    "destination": [
+        "GPE",
+        "LOC",
+        "FAC",
+        "destination"
+    ],
+    "defendant": [
+        "PER",
+        "ORG",
+        "VALUE",
+        "TIMEX2",
+        "GPE",
+        "defendant"
+    ],
+    "entity": [
+        "PER",
+        "GPE",
+        "ORG",
+        "VALUE"
+    ],
+    "plaintiff": [
+        "ORG",
+        "PER",
+        "GPE"
+    ],
+    "buyer": [
+        "GPE",
+        "PER",
+        "ORG"
+    ],
+    "target": [
+        "PER",
+        "VEH",
+        "ORG",
+        "LOC",
+        "FAC",
+        "target",
+        "place",
+        "WEA",
+        "TIMEX2",
+        "artifact"
+    ],
+    "sentence": [
+        "VALUE",
+        "TIMEX2"
+    ]
+}

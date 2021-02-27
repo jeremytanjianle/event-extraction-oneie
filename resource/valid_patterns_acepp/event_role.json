@@ -1,0 +1,227 @@
+{
+    "contact:meet": [
+        "entity",
+        "time",
+        "place"
+    ],
+    "justice:execute": [
+        "person",
+        "place",
+        "agent",
+        "time",
+        "crime",
+        "defendant"
+    ],
+    "personnel:elect": [
+        "person",
+        "time",
+        "entity",
+        "place",
+        "position"
+    ],
+    "justice:trialhearing": [
+        "defendant",
+        "place",
+        "time",
+        "crime",
+        "adjudicator",
+        "prosecutor"
+    ],
+    "business:endorg": [
+        "org",
+        "time",
+        "place"
+    ],
+    "personnel:startposition": [
+        "person",
+        "entity",
+        "time",
+        "position",
+        "place"
+    ],
+    "life:divorce": [
+        "person",
+        "time"
+    ],
+    "justice:appeal": [
+        "plaintiff",
+        "adjudicator",
+        "place",
+        "crime",
+        "time"
+    ],
+    "justice:convict": [
+        "defendant",
+        "time",
+        "crime",
+        "place",
+        "adjudicator",
+        "prosecutor"
+    ],
+    "business:declarebankruptcy": [
+        "org",
+        "time",
+        "place"
+    ],
+    "conflict:attack": [
+        "attacker",
+        "target",
+        "instrument",
+        "time",
+        "place",
+        "artifact"
+    ],
+    "justice:sue": [
+        "defendant",
+        "plaintiff",
+        "place",
+        "crime",
+        "time",
+        "adjudicator"
+    ],
+    "transaction:transferownership": [
+        "artifact",
+        "time",
+        "buyer",
+        "place",
+        "seller",
+        "beneficiary",
+        "price",
+        "giver",
+        "recipient"
+    ],
+    "justice:extradite": [
+        "defendant",
+        "crime",
+        "origin",
+        "person",
+        "destination",
+        "agent"
+    ],
+    "conflict:demonstrate": [
+        "entity",
+        "place",
+        "time"
+    ],
+    "justice:fine": [
+        "entity",
+        "money",
+        "crime",
+        "adjudicator",
+        "place",
+        "time"
+    ],
+    "justice:arrestjail": [
+        "person",
+        "time",
+        "agent",
+        "place",
+        "crime",
+        "prosecutor"
+    ],
+    "business:mergeorg": [
+        "org"
+    ],
+    "personnel:endposition": [
+        "person",
+        "entity",
+        "position",
+        "time",
+        "place"
+    ],
+    "justice:sentence": [
+        "adjudicator",
+        "defendant",
+        "sentence",
+        "crime",
+        "place",
+        "time"
+    ],
+    "justice:acquit": [
+        "defendant",
+        "time",
+        "crime",
+        "adjudicator"
+    ],
+    "life:marry": [
+        "person",
+        "place",
+        "time"
+    ],
+    "life:die": [
+        "victim",
+        "place",
+        "agent",
+        "time",
+        "instrument",
+        "attacker"
+    ],
+    "life:injure": [
+        "victim",
+        "place",
+        "agent",
+        "time",
+        "instrument"
+    ],
+    "life:beborn": [
+        "person",
+        "place",
+        "time"
+    ],
+    "justice:pardon": [
+        "adjudicator",
+        "defendant",
+        "time",
+        "place"
+    ],
+    "business:startorg": [
+        "agent",
+        "org",
+        "place",
+        "time"
+    ],
+    "transaction:transfermoney": [
+        "money",
+        "recipient",
+        "giver",
+        "beneficiary",
+        "time",
+        "place"
+    ],
+    "contact:phonewrite": [
+        "entity",
+        "time",
+        "place"
+    ],
+    "movement:transport": [
+        "artifact",
+        "destination",
+        "time",
+        "vehicle",
+        "origin",
+        "agent",
+        "giver"
+    ],
+    "justice:chargeindict": [
+        "defendant",
+        "crime",
+        "prosecutor",
+        "adjudicator",
+        "place",
+        "time"
+    ],
+    "justice:releaseparole": [
+        "person",
+        "crime",
+        "place",
+        "entity",
+        "time"
+    ],
+    "personnel:nominate": [
+        "person",
+        "agent",
+        "position",
+        "time",
+        "place"
+    ]
+}
